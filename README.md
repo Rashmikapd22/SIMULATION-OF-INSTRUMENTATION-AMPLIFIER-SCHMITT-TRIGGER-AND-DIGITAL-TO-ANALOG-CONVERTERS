@@ -30,11 +30,16 @@ LT-Spice
 
 
 ## OUTPUT: SCHMITT TRIGGER 
-![Uploading image.png…]()
+<img width="1268" height="601" alt="image" src="https://github.com/user-attachments/assets/b2e3bd15-53ba-4518-a3bf-5967864c93fa" />
 
 
 ## DIGITAL TO ANALOG CONVERTER CIRCUIT DIAGRAM
+<img width="1218" height="557" alt="image" src="https://github.com/user-attachments/assets/7136d56b-732f-480f-8262-7398d27118ee" />
+
 
 ## OUTPUT: DIGITAL TO ANALOG CONVERTER
+<img width="1281" height="406" alt="image" src="https://github.com/user-attachments/assets/0a51e034-2a38-4795-b7c6-faea6fcc6f32" />
+
 
 ## RESULT :
+Thus the LT spice has been studied and Instrumentation amplifier ,schmitt trigger and digital to Analog convertor is simulated.
